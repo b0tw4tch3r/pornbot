@@ -1,3 +1,9 @@
+?hris Forman
+?hris Foster
+?hris Thorndike
+?hris Watson
+?hris Youmans
+?lara Jerome
 Abby MacAdam
 Abby Peterson
 Abigail Brooks
@@ -291,11 +297,6 @@ Cheryl Thornton
 Cheryl Walkman
 Chloe McDonald
 Chloe Wilkins
-Сhris Forman
-Сhris Foster
-Сhris Thorndike
-Сhris Watson
-Сhris Youmans
 Christiana Cannon
 Christie Philips
 Christie Roberts
@@ -318,7 +319,6 @@ Cindy Shackley
 Cindy Youmans
 Claire Taylor
 Claire Walter
-Сlara Jerome
 Clara Price
 Clare Ryan
 Clarissa Davis
